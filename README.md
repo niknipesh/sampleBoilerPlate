@@ -1,2 +1,2 @@
-# sampleBoilerPlate
-Simple Boiler Plate 
+# Boiler Plate with Grunt
+Initial commit for boiler plate with grunt
